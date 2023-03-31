@@ -72,12 +72,12 @@ class _ChatRoomState extends State<ChatRoom> {
                 ? Container(
                     width: 10,
                     height: 10,
-              color: Colors.green,
+                    color: Colors.green,
                   )
                 : Container(
                     width: 10,
                     height: 10,
-              color: Colors.grey,
+                    color: Colors.grey,
                   ),
             const SizedBox(
               width: 12,
