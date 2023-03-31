@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880036834088",
+    "project_id": "chat-mate-f935e",
+    "storage_bucket": "chat-mate-f935e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880036834088:android:bfb419dee19b531c8dbe1d",
+        "android_client_info": {
+          "package_name": "com.bunty.chat_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880036834088-qtipmkcq5emv470cug2osqv2hlb160n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbLQAwQkZsf-sNmNs5X4dXA_e_vMPxhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880036834088-qtipmkcq5emv470cug2osqv2hlb160n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
